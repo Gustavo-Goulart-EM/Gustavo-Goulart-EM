@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Gustavo-Goulart-EM/Gustavo-Goulart-EM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
